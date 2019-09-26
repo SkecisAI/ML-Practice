@@ -11,7 +11,9 @@
 		1. 预剪枝  
 		2. 后剪枝  
 * **神经网络**  
-	1. 标准BP算法
+	1. 标准BP算法  
+* **朴素贝叶斯**  
+	1. 拉普拉斯变换
 * **（待续）**
 ## 二. 代码清单
 代码中重要的部分都配有蹩脚的英文注释（T.T苦学英语ing），具体使用的数据集内容请参考代码引用和数据集清单。
@@ -20,6 +22,7 @@
 * [decision_tree](https://github.com/SkecisAI/ML-Practice/blob/master/decision_tree.py): 决策树实现，集成各个思想，包含划分方式有`信息增益`、`基尼指数`，连续值的处理方式有`平均值法`、`二分法`，
 				 以及剪枝方法有`预剪枝`、`后剪枝`。
 * [neural_network](https://github.com/SkecisAI/ML-Practice/blob/master/neural_network.py): 神经网络实现，标准BP算法。
+* [naive_bayes_classifier](https://github.com/SkecisAI/ML-Practice/blob/master/naive_bayes_classifier.py): 朴素贝叶斯实现，采用了拉普拉斯变换。
 * （待续）
 ## 三. 数据集清单
 均为csv文件，内容如下
