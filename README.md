@@ -29,5 +29,7 @@
 * [西瓜数据集3.0alpha](https://github.com/SkecisAI/ML-Practice/blob/master/watermelon.csv)
 * [西瓜数据集2.0](https://github.com/SkecisAI/ML-Practice/blob/master/watermelon4.csv)  
 * [西瓜数据集3.0](https://github.com/SkecisAI/ML-Practice/blob/master/watermelon3.csv)
+## 四. 推导
+- [线性模型](https://skecis.top/2020/06/01/linear-reg/#more)
 
 *作者才疏学浅，以上资料仅供参考，交流。*
